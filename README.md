@@ -11,18 +11,18 @@
 
 ![WebDeveloperMycrxnGIF](https://github.com/SaveJobs/SaveJobs/assets/157660768/674d653f-9cda-4e6e-a17e-9c897accb7b4)
 
-<h7>목적 : 현재 개발 트렌드에 대한 학습! 가능한 깊이 있게 이해하기!  </h7><br>
-<h5> 스마트 인재 개발원 학습 중 진행 프로젝트 </h5>
+<h7>  목적 : 현재 개발 트렌드에 대한 학습! 가능한 깊이 있게 이해하기!  </h7><br>
+<h3> 스마트 인재 개발원 학습 중 진행 프로젝트 </h3>
 <h7> 1) 음악듣고 맞추기 게임 <h7>
 
 ![VinylDiscDanceMusicGIF](https://github.com/SaveJobs/SaveJobs/assets/157660768/4427a480-a41a-489c-9763-3b5444bce8f6)
     
-<h7> 역할 : 팀장, 팀원 의견 청취 및 프로젝트 발표 진행 </h7><br>
+<h7> - 역할 : 팀장, 팀원 의견 청취 및 프로젝트 발표 진행 </h7><br>
 <h7> 2) 신발 소통 SNS 사이트 </h7>
 
 ![ShoesGIF](https://github.com/SaveJobs/SaveJobs/assets/157660768/9ac4f67f-b3c7-45fb-a11e-8e1b3246ad37)
 
-<h7> 역할 : 채팅페이지 HTML 및 기능 구현 (웹소켓 통한 양방향 통신) </h7>
+<h7> - 역할 : 채팅페이지 HTML 및 기능 구현 (웹소켓 통한 양방향 통신) </h7>
 
 
 
