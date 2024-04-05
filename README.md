@@ -1,4 +1,4 @@
-### AI시대 새로운 생산의 리더! 👋
+<h3> 👑 AI시대 새로운 생산의 리더!</h3> 
 
 <h5>- 스마트 조선의 아이콘! 생산본부 유일한 산업통산자원부 장관 수상자.</h5>
 <h5>- 고도의 ERP 시대에, 생산의 MES는 30년째 제 자리걸음.</h5>
@@ -7,7 +7,7 @@
 
 ![CruiseGIF](https://github.com/SaveJobs/SaveJobs/assets/157660768/250e7304-755b-48a2-8682-ec4831874c8d)
 
-<br><h3> 2023.12~ 2024. 현재  스마트 인재 개발원 학습 중 </h3>
+<br><h3> 🤖2023.12~ 2024. 현재  스마트 인재 개발원 학습 중 </h3>
 
 ![WebDeveloperMycrxnGIF](https://github.com/SaveJobs/SaveJobs/assets/157660768/674d653f-9cda-4e6e-a17e-9c897accb7b4)
 
